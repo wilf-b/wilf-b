@@ -15,11 +15,10 @@
 
 ### 🌟 About Me
 
-I'm a passionate developer with a focus on web technologies. I love building responsive and dynamic web applications.
+I'm a third year Natural Sciences student at the University of Exeter, with a focus on scientific computing and data science.
 
-- 🔭 I’m currently working on an e-commerce platform.
-- 🌱 I’m learning Docker and Kubernetes.
-- 💬 Ask me about React, Node.js, or GraphQL.
+On this page you will find many of my past and present projects. These range from lab based analysis to longer pieces of code which I have developed. 
+
 
 </td>
 <td width="50%" valign="top">
