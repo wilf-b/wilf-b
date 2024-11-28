@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/15df0e4d-a320-4ed4-96b7-343dc23b63d2)<h1 align="center">Welcome to Wilf Bates' code repository</h1>
+<h1 align="center">Welcome to Wilf Bates' code repository</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-blue" alt="React Badge" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green" alt="Node.js Badge" />
