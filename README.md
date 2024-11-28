@@ -20,8 +20,6 @@ I'm a third year Natural Sciences student at the University of Exeter, with a fo
 On this page you will find many of my past and present projects. These range from lab based analysis to longer pieces of code which I have developed. 
 
 
-</td>
-<td width="50%" valign="top">
 
 
 ### 🚀 Featured Projects
@@ -30,10 +28,9 @@ On this page you will find many of my past and present projects. These range fro
   <a href="https://github.com/wilf-b/coursework/tree/NSC2001-frontiers-in-science">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=janeDoe&repo=Project1&theme=radical" />
   </a>
-  <a href="https://github.com/wilf-b/coursework/tree/PHY2027-Scientific-programming-in-C">
+  <a href="https://github.com/wilf-b/coursework/tree/ECM2423-artificial-intelligence-and-applications">
     <img src="https://th.bing.com/th/id/OIP.uX2jV8NWOSLHvj-qNKJDRQHaE7?rs=1&pid=ImgDetMain" />
   </a>
-
     <a href="https://github.com/wilf-b/coursework/tree/PHY2027-Scientific-programming-in-C">
     <img src="https://bookdown.org/probability/bookdown-demo/bookdown-demo_files/figure-html/unnamed-chunk-64-1.png" />
   </a>
