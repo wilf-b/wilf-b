@@ -1,9 +1,5 @@
 <h1 align="center">Welcome to Wilf Bates' code repository</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green" alt="Node.js Badge" />
-  <img src="https://img.shields.io/badge/Database-MySQL-orange" alt="MySQL Badge" />
-</p>
+
 
 <img align="center" src="https://example.com/your-banner.png" alt="Banner Image" width="100%" />
 
