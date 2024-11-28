@@ -36,10 +36,10 @@ On this page you will find many of my past and present projects. These range fro
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/janeDoe/Project1">
+  <a href="https://github.com/wilf-b/coursework/tree/NSC2001-frontiers-in-science">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=janeDoe&repo=Project1&theme=radical" />
   </a>
-  <a href="https://github.com/janeDoe/Project2">
+  <a href="https://github.com/wilf-b/coursework/tree/PHY2027-Scientific-programming-in-C">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=janeDoe&repo=Project2&theme=radical" />
   </a>
 </div>
