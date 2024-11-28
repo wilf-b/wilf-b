@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My Portfolio 👋</h1>
+<h1 align="center">Welcome to Wilf Bates' code repository</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-blue" alt="React Badge" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green" alt="Node.js Badge" />
@@ -31,7 +31,7 @@ On this page you will find many of my past and present projects. These range fro
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=janeDoe&repo=Project1&theme=radical" />
   </a>
   <a href="https://github.com/wilf-b/coursework/tree/PHY2027-Scientific-programming-in-C">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=janeDoe&repo=Project2&theme=radical" />
+    <img src="https://th.bing.com/th/id/OIP.uX2jV8NWOSLHvj-qNKJDRQHaE7?rs=1&pid=ImgDetMain" />
   </a>
 </div>
 
