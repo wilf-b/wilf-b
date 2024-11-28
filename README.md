@@ -23,15 +23,6 @@ On this page you will find many of my past and present projects. These range fro
 </td>
 <td width="50%" valign="top">
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=janeDoe&show_icons=true&theme=radical" />
-
-</td>
-</tr>
-</table>
-
----
 
 ### 🚀 Featured Projects
 
